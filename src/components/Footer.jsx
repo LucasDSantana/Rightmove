@@ -30,7 +30,7 @@ export default function Footer() {
             </ul>
           </div>
           <div className="footer-col">
-            <h4>Oasis Homes</h4>
+            <h4>Rightmove</h4>
             <ul>
               <li><a href="/about">About us</a></li>
               <li><a href="/contact">Contact</a></li>
@@ -44,7 +44,7 @@ export default function Footer() {
             <a href="#twitter" aria-label="Twitter">TW</a>
             <a href="#instagram" aria-label="Instagram">IG</a>
           </div>
-          <p className="copyright">&copy; {new Date().getFullYear()} Oasis Homes. All rights reserved.</p>
+          <p className="copyright">&copy; {new Date().getFullYear()} Rightmove. All rights reserved.</p>
         </div>
       </div>
     </footer>

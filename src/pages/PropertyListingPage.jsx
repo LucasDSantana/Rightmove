@@ -10,7 +10,7 @@ const mockProperties = [
     price: "£850,000",
     beds: 4, baths: 3, sqft: "2,100",
     img: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    agent: "Oasis Estates"
+    agent: "Rightmove Estates"
   },
   {
     id: 2,

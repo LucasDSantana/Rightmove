@@ -100,7 +100,7 @@ export default function Header() {
       <header className="site-header">
         <div className="header-container">
           <div className="logo">
-            <Link to="/" className="logo-link">Oasis Homes</Link>
+            <Link to="/" className="logo-link">Rightmove</Link>
           </div>
           <nav className="main-nav">
             <ul>

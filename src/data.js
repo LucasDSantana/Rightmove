@@ -9,7 +9,7 @@ export const properties = [
     type: "Penthouse",
     image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
     description: "A stunning modern penthouse featuring floor-to-ceiling windows, panoramic city views, and a wrap-around private terrace. Finished to an impeccable standard with smart home technology.",
-    agent: "Oasis Prime"
+    agent: "Rightmove Prime"
   },
   {
     id: "2",

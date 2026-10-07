@@ -1,6 +1,6 @@
-# Documento Técnico e Changelog - OasisHomes
+# Documento Técnico e Changelog - Rightmove
 
-Este arquivo registra todas as modificações técnicas feitas por agentes de Inteligência Artificial no projeto OasisHomes.
+Este arquivo registra todas as modificações técnicas feitas por agentes de Inteligência Artificial no projeto Rightmove.
 
 ## 2026-10-07 - Gemini 3.1 Pro High
 ### Adicionado / Alterado

@@ -22,7 +22,7 @@ export default function SignInDrawer({ isOpen, onClose }) {
             transition={{ type: 'spring', damping: 25, stiffness: 200 }}
           >
             <div className="drawer-header">
-              <span className="drawer-logo">Oasis Homes</span>
+              <span className="drawer-logo">Rightmove</span>
               <button className="btn-close" onClick={onClose}><X size={24} /></button>
             </div>
             <div className="drawer-body">

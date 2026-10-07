@@ -15,7 +15,7 @@ export default function Home() {
       <SearchHero />
       <section className="featured-section">
         <div className="featured-container">
-          <h3 className="section-title">Explore more with Oasis Homes</h3>
+          <h3 className="section-title">Explore more with Rightmove</h3>
           <div className="cards-grid">
             {cards.map((card, i) => (
               <motion.div 
