@@ -744,3 +744,34 @@ a:hover {
   max-width: 100%;
   border-radius: var(--radius-md);
 }
+
+/* Demo Banner */
+.demo-banner {
+  background: #1a1d20; /* Dark background */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 14px;
+  position: relative;
+  z-index: 9999;
+  border-bottom: 3px solid #3ee8b5;
+}
+
+.demo-banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.demo-banner-content strong {
+  color: #3ee8b5; /* Mint green accent */
+  font-weight: 700;
+}
+
+.demo-icon {
+  color: #3ee8b5;
+  flex-shrink: 0;
+}

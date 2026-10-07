@@ -6,12 +6,14 @@ import Home from './pages/Home';
 import GenericPage from './pages/GenericPage';
 import PropertyListingPage from './pages/PropertyListingPage';
 import ContentPage from './pages/ContentPage';
+import DemoBanner from './components/DemoBanner';
 import './index.css';
 
 export default function App() {
   return (
     <BrowserRouter>
       <div className="app-layout">
+        <DemoBanner />
         <Header />
         <main className="main-content">
           <Routes>
